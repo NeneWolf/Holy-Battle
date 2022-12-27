@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\inesl\OneDrive\Ambiente de Trabalho\GamePattern\HolyBattle\HolyBattle\HolyBattle\Player.h(119,72): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=std::chrono::system_clock::rep
+          ]
+C:\Users\inesl\OneDrive\Ambiente de Trabalho\GamePattern\HolyBattle\HolyBattle\HolyBattle\Main.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  HolyBattle.vcxproj -> C:\Users\inesl\OneDrive\Ambiente de Trabalho\GamePattern\HolyBattle\HolyBattle\Debug\HolyBattle.exe
